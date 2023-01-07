@@ -1,0 +1,14 @@
+{
+  "name": "first-graphql-server",
+  "version": "1.0.0",
+  "description": "my first graphQL server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zehan12",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
